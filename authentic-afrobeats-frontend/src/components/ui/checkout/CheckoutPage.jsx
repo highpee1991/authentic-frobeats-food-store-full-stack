@@ -212,7 +212,7 @@ const CheckoutPage = () => {
 
     try {
       const response = await fetch(
-        "http://localhost:3000/create-checkout-session",
+        "hhttps://authentic-frobeats-food-store-full-stack-tsz6.vercel.app/",
         {
           method: "POST",
           headers: {
